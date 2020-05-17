@@ -1,5 +1,9 @@
 # linux-seguridad
 
+## Log
+```
+tail -f /var/log/auth.log
+```
 
 ## fail2ban proteger acceso ssh
 ```
