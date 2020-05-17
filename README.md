@@ -1,4 +1,10 @@
-# linux-seguridad
+# Linux-seguridad
+
+## SSH Cambiar puerto
+```
+nano /etc/ssh/sshd_config
+/etc/init.d/sshd restart
+```
 
 ## Log
 ```
